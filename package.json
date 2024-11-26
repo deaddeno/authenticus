@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "discord-api-types": "^0.37.82",
-    "octokit": "^3.2.1",
+    "octokit": "^4.0.2",
     "otpauth": "^9.2.4"
   },
   "devDependencies": {
